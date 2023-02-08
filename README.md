@@ -67,7 +67,7 @@
 
 ---
 
-<h2>About The Project</h2>
+<h2>About</h2>
 
 ```python
 # This script outputs information about a person's background
