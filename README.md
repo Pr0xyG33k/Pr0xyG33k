@@ -2,11 +2,13 @@
 
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/Pr0xyG33k/Pr0xyG33k"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-<!--    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a> -->
-    <a href="https://github.com/Pr0xyG33k/Pr0xyG33k/graphs/contributors"><img src="https://img.shields.io/github/contributors/Pr0xyG33k/Pr0xyG33k?color=blue"></a>
-    <a href="https://github.com/Pr0xyG33k/Pr0xyG33k/stargazers"><img src="https://img.shields.io/github/stars/Pr0xyG33k/Pr0xyG33k?style=social?logo=github"></a>
-    <a href="https://github.com/Pr0xyG33k/Pr0xyG33k/network/members"><img src="https://img.shields.io/github/forks/Pr0xyG33k/Pr0xyG33k?style=social?    color=blue&logo=github"></a>
+</a>
+    <a href="https://github.com/Pr0xyG33k/Pr0xyG33k"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg?style=for-the-badge"></a>
+    <a href="https://github.com/Pr0xyG33k/Pr0xyG33k/graphs/contributors"><img src="https://img.shields.io/github/contributors/Pr0xyG33k/Pr0xyG33k?style=for-the-badge">
+    <a href="https://github.com/Pr0xyG33k/Pr0xyG33k/stargazers"><img src="https://img.shields.io/github/stars/Pr0xyG33k/Pr0xyG33k?style=for-the-badge"></a>
+    <a href="https://github.com/Pr0xyG33k/Pr0xyG33k/network/members"><img src="https://img.shields.io/github/forks/Pr0xyG33k/Pr0xyG33k.svg?style=for-the-badge"></a>
+    <a href="https://github.com/Pr0xyG33k/Pr0xyG33k/issues"><img src="https://img.shields.io/github/issues/Pr0xyG33k/Pr0xyG33k.svg?style=for-the-badge"></a>
+    <a href="https://github.com/Pr0xyG33k/Pr0xyG33k/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/Pr0xyG33k/Pr0xyG33k.svg?style=for-the-badge"></a>
 </p>
 
 <!-- PROJECT SHIELDS -->
@@ -20,9 +22,6 @@
 
 <!-- PROJECT LOGO -->
   <p align="center">
-    <br />
-    <a href="https://github.com/Pr0xyG33k/Pr0xyG33k/"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/Pr0xyG33k/Pr0xyG33k/issues">Report Bug</a>
     ·
@@ -39,41 +38,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There%2C+I+am+Pr0xyG33k!;Welcome+to+my+new+profile+!;%3CH4ck1ng_%3E+%26%26+%3CPr0gr4mm1ng_%3E!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
-
-<!--   my-programming -->
-## Things I know:
-<h3> Programming language 🌱</h3>
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</div>
-
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
-<h3> Operating system: </h3>
-<div align="left">
-  <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
-</div>
-
-<h3>Social:</h3> 
-
-<div align="left">  
-  <a href="https://www.linkedin.com/in/anthony-d-791220197/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="https://discord.gg/" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-8B89CC?style=for-the-badge&logo=Discord&logoColor=white"/>
-  </a>
-    
-   <a href="https://github.com/Pr0xyG33k/" alt="Github">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -101,6 +65,40 @@
   </ol>
 </details>
 
+<!--   my-programming -->
+<h2> Things I know </h2>
+<h3> Programming language 🌱</h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</div>
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+<h3> Operating system: </h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
+</div>
+
+<h2>Social</h2> 
+<div align="left">  
+  <a href="https://www.linkedin.com/in/anthony-d-791220197/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://discord.gg/" alt="Discord">
+    <img src="https://img.shields.io/badge/-Discord-8B89CC?style=for-the-badge&logo=Discord&logoColor=white"/>
+  </a>
+    
+   <a href="https://github.com/Pr0xyG33k/" alt="Github">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
 <!--
 **Pr0xyG33k/Pr0xyG33k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -120,3 +118,44 @@ Here are some ideas to get you started:
 ![card](https://github-readme-stats.vercel.app/api?username=Pr0xyG33k&theme=default&show_icons=true)
 ![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0xyG33k&hide=html&layout=compact&theme=default)
 -->
+
+<h2> GitHub Statistics </h2>
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pr0xyG33k&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0xyG33k&theme=dracula&hide_langs_below=1" />
+</a>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/othneildrew
+[product-screenshot]: images/screenshot.png
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[Vue-url]: https://vuejs.org/
+[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[Angular-url]: https://angular.io/
+[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
+[Svelte-url]: https://svelte.dev/
+[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[Laravel-url]: https://laravel.com
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com
+[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[JQuery-url]: https://jquery.com 
