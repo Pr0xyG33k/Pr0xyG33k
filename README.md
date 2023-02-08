@@ -44,7 +44,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about">About</a>
+      <a href="#About The Project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -65,7 +65,9 @@
   </ol>
 </details>
 
-<h2>about</h2>
+---
+
+<h2>About The Project</h2>
 
 ```python
 # This script outputs information about a person's background
@@ -85,8 +87,8 @@ print("Languages:\n", languages "\n")
 ```
 
 <!--   my-programming -->
-<h2> Things I know </h2>
-<h3> Programming language 🌱</h3>
+<h2> skills </h2>
+<h3> Programming language</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
@@ -97,12 +99,17 @@ print("Languages:\n", languages "\n")
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-<h3> Operating system: </h3>
+<h3> operating system</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
+</div>
+
+<h3>virtualization</h3>
+<div align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </div>
 
 <h2>Social</h2> 
@@ -140,7 +147,7 @@ Here are some ideas to get you started:
 ![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0xyG33k&hide=html&layout=compact&theme=default)
 -->
 
-<h2> GitHub Statistics </h2>
+<h2>GitHub Statistics</h2>
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pr0xyG33k&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
