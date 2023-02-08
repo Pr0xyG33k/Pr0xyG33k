@@ -44,7 +44,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#About">About</a>
+      <a href="#About ☕">About</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
