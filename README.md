@@ -8,7 +8,7 @@
     <a href="https://github.com/Pr0xyG33k/Pr0xyG33k/stargazers"><img src="https://img.shields.io/github/stars/Pr0xyG33k/Pr0xyG33k?style=for-the-badge"></a>
     <a href="https://github.com/Pr0xyG33k/Pr0xyG33k/network/members"><img src="https://img.shields.io/github/forks/Pr0xyG33k/Pr0xyG33k.svg?style=for-the-badge"></a>
     <a href="https://github.com/Pr0xyG33k/Pr0xyG33k/issues"><img src="https://img.shields.io/github/issues/Pr0xyG33k/Pr0xyG33k.svg?style=for-the-badge"></a>
-    <a href="https://github.com/Pr0xyG33k/Pr0xyG33k/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/Pr0xyG33k/Pr0xyG33k.svg?style=for-the-badge"></a>
+    <a href="https://github.com/Pr0xyG33k/Pr0xyG33k/blob/main/LICENSE.txt"><img src="https://img.shields.io/github/license/Pr0xyG33k/Pr0xyG33k.svg?style=for-the-badge"></a>
 </p>
 
 <!-- PROJECT SHIELDS -->
