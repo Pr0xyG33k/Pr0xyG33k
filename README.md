@@ -44,7 +44,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">About</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -64,6 +64,12 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+
+<h2> About ☕</h2>
+
+<p>
+🔷 I am passionate about Hacking && Programming and currently work full-time as an Network && Security Engineer. Involved in the technology space for more than 4 years now more broadly in the Ip Networking, pentesting, Cloud computing, CCTV, Hypervision, Image Analysis.
+.</p>
 
 <!--   my-programming -->
 <h2> Things I know </h2>
