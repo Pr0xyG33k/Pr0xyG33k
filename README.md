@@ -40,11 +40,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There%2C+I+am+Pr0xyG33k!;Welcome+to+my+new+profile+!;%3CH4ck1ng_%3E+%26%26+%3CPr0gr4mm1ng_%3E!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
 <!--   my-programming -->
 ## Things I know:
-### Programming language 🌱
+<h3> Programming language 🌱</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
@@ -53,13 +51,29 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
 
-### Operating system
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+<h3> Operating system: </h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
 
+<h3>Social:</h3> 
 
+<div align="left">  
+  <a href="https://www.linkedin.com/in/anthony-d-791220197/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://discord.gg/" alt="Discord">
+    <img src="https://img.shields.io/badge/-Discord-8B89CC?style=for-the-badge&logo=Discord&logoColor=white"/>
+  </a>
+    
+   <a href="https://github.com/Pr0xyG33k/" alt="Github">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -100,4 +114,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+![card](https://github-readme-stats.vercel.app/api?username=Pr0xyG33k&theme=default&show_icons=true)
+![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0xyG33k&hide=html&layout=compact&theme=default)
 -->
