@@ -36,7 +36,7 @@
 
 <!--   my-ticker -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There%2C+I+am+Pr0xyG33k!;Welcome+to+my+new+profile+!;%3CH4ck1ng_%3E+%26%26+%3CPr0gr4mm1ng_%3E!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=0E98F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there%2C+i'm+Pr0xyG33k%2C+welcome+to+my+new+profile+!;I+love+%3CH4ck1ng_%3E+%26%26+%3CPr0gr4mm1ng_%3E+!;because+they+allow+me+to+create+and+solve+complex+problems">
 </p>
 
 <!-- TABLE OF CONTENTS -->
