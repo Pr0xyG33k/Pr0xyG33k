@@ -121,26 +121,6 @@ print("Background:\n", background "\n")
   </a>
 </div>
 
-<!--
-**Pr0xyG33k/Pr0xyG33k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-![card](https://github-readme-stats.vercel.app/api?username=Pr0xyG33k&theme=default&show_icons=true)
-![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0xyG33k&hide=html&layout=compact&theme=default)
--->
-
 <h2>repositories</h2>
 <a href="https://github.com/Pr0xyG33k/Bot">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pr0xyG33k&theme=transparent&repo=bot" />
@@ -152,4 +132,3 @@ Here are some ideas to get you started:
  <img align="center" src="https://streak-stats.demolab.com?user=Pr0xyG33k&theme=transparent&line_height=60&hide_border=false" />
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0xyG33k&theme=transparent&hide_border=true&hide_langs_below=1" />
 </a>
-    
