@@ -32,8 +32,8 @@
 <!--   my-header-img
 ![](./src/header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+<img align="right" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50"'>
 -->
-
 <!--   my-ticker -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=0E98F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there%2C+i'm+Pr0xyG33k%2C+welcome+to+my+new+profile+!;I+love+%3CH4ck1ng_%3E+%26%26+%3CPr0gr4mm1ng_%3E+!;because+they+allow+me+to+create+and+solve+complex+problems">
@@ -149,5 +149,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0xyG33k&theme=dracula&hide_langs_below=1" />
 </a>
-
-<img align="right" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50"'>
