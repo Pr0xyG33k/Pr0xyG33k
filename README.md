@@ -130,5 +130,5 @@ print("Background:\n", background "\n")
 <h2>github_statistics</h2>
 <a href="https://github.com/Pr0xyG33k">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pr0xyG33k&show_icons=true&theme=transparent&hide_border=false&hide_rank=false" alt="**SEU NOME** github stats"/>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0xyG33k&theme=transparent&hide_border=true&hide_langs_below=1" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0xyG33k&theme=transparent&hide_border=true&hide_langs_below=1&langs_count=5" />
 </a>
