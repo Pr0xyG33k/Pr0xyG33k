@@ -75,7 +75,6 @@ background = "I am passionate about Hacking & Programming and currently work ful
 "Involved in the technology space for more than 4 years" +
 "now more broadly in the Ip Networking, pentesting, Cloud computing, CCTV, Hypervision, Image Analysis."
 
-
 # Output the person's information to the console
 print("Job Title:\n", job_title "\n")
 print("Background:\n", background "\n")
