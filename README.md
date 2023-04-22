@@ -62,6 +62,7 @@
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
+<img align="center" src="https://streak-stats.demolab.com?user=Pr0xyG33k&theme=transparent&line_height=60&hide_border=false&show_icons=true" />
 -->
 ---
 
@@ -124,11 +125,10 @@ print("Background:\n", background "\n")
 <h2>repositories</h2>
 <a href="https://github.com/Pr0xyG33k/Bot">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pr0xyG33k&theme=transparent&repo=bot" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0xyG33k&theme=transparent&hide_border=true&hide_langs_below=1" />
 </a>
 
 <h2>github_statistics</h2>
 <a href="https://github.com/Pr0xyG33k">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pr0xyG33k&show_icons=true&theme=transparent&hide_border=false&hide_rank=true&layout=compact" alt="**SEU NOME** github stats"/>
- <img align="center" src="https://streak-stats.demolab.com?user=Pr0xyG33k&theme=transparent&line_height=60&hide_border=false&show_icons=true&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pr0xyG33k&show_icons=true&theme=transparent&hide_border=false&hide_rank=false" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0xyG33k&theme=transparent&hide_border=true&hide_langs_below=1" />
 </a>
