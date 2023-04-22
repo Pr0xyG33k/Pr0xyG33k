@@ -51,6 +51,7 @@
         <li><a href="#virtualization">virtualization</a></li>
      </ul>
     <li><a href="#social">social</a></li>
+    <li><a href="#repositories">repositories</a></li>
     <li><a href="#github_statistics">github_statistics</a></li>
   </ol>
 </details>
@@ -140,11 +141,15 @@ Here are some ideas to get you started:
 ![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0xyG33k&hide=html&layout=compact&theme=default)
 -->
 
-<h2>github_statistics</h2>
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pr0xyG33k&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+<h2>repositories</h2>
+<a href="https://github-readme-stats.vercel.app">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pr0xyG33k&theme=transparent&repo=bot" />
 </a>
 
+<h2>github_statistics</h2>
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0xyG33k&theme=dracula&hide_langs_below=1" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pr0xyG33k&show_icons=true&theme=transparent&hide_border=false" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://streak-stats.demolab.com?user=Pr0xyG33k&theme=transparent&line_height=60&hide_border=false" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0xyG33k&theme=transparent&hide_border=true&hide_langs_below=1" />
 </a>
+    
