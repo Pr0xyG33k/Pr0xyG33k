@@ -124,11 +124,11 @@ print("Background:\n", background "\n")
 <h2>repositories</h2>
 <a href="https://github.com/Pr0xyG33k/Bot">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pr0xyG33k&theme=transparent&repo=bot" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0xyG33k&theme=transparent&hide_border=true&hide_langs_below=1" />
 </a>
 
 <h2>github_statistics</h2>
 <a href="https://github.com/Pr0xyG33k">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pr0xyG33k&show_icons=true&theme=transparent&hide_border=false" alt="**SEU NOME** github stats"/>
- <img align="center" src="https://streak-stats.demolab.com?user=Pr0xyG33k&theme=transparent&line_height=60&hide_border=false" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0xyG33k&theme=transparent&hide_border=true&hide_langs_below=1" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pr0xyG33k&show_icons=true&theme=transparent&hide_border=false&hide_rank=true" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://streak-stats.demolab.com?user=Pr0xyG33k&theme=transparent&line_height=60&hide_border=false&show_icons=true" />
 </a>
