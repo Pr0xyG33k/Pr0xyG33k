@@ -72,7 +72,7 @@
 # This script outputs information about a person's background
 
 # Define variables to store the person's name, job title, and background information
-job_title = "Network & Security Engineer"
+job_title = "Cybersecurity - Pentester"
 background = "I am passionate about Hacking & Programming and currently work full-time as an Network & Security Engineer." +
 "Involved in the technology space for more than 4 years" +
 "now more broadly in the Ip Networking, pentesting, Cloud computing, CCTV, Hypervision, Image Analysis."
