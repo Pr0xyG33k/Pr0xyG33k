@@ -142,12 +142,12 @@ Here are some ideas to get you started:
 -->
 
 <h2>repositories</h2>
-<a href="https://github-readme-stats.vercel.app">
+<a href="https://github.com/Pr0xyG33k/Bot">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pr0xyG33k&theme=transparent&repo=bot" />
 </a>
 
 <h2>github_statistics</h2>
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/Pr0xyG33k">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pr0xyG33k&show_icons=true&theme=transparent&hide_border=false" alt="**SEU NOME** github stats"/>
  <img align="center" src="https://streak-stats.demolab.com?user=Pr0xyG33k&theme=transparent&line_height=60&hide_border=false" />
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0xyG33k&theme=transparent&hide_border=true&hide_langs_below=1" />
