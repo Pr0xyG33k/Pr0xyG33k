@@ -113,7 +113,7 @@ print("Background:\n", background "\n")
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
-  <a href="https://discord.gg/" alt="Discord">
+  <a href="discordapp.com/users/363663109577113601" alt="Discord">
     <img src="https://img.shields.io/badge/-Discord-8B89CC?style=for-the-badge&logo=Discord&logoColor=white"/>
   </a>
     
