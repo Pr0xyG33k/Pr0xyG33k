@@ -112,14 +112,15 @@ print("Background:\n", background "\n")
   <a href="https://www.linkedin.com/in/anthony-d-791220197/" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
   <a href="https://discordapp.com/users/363663109577113601" alt="Discord">
     <img src="https://img.shields.io/badge/-Discord-8B89CC?style=for-the-badge&logo=Discord&logoColor=white"/>
   </a>
-    
    <a href="https://github.com/Pr0xyG33k/" alt="Github">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+   <a href="https://twitter.com/Pr0xyG33k" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="100"/>
+    </a>
 </div>
 
 <h2>repositories</h2>
