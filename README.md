@@ -73,9 +73,15 @@
 
 # Define variables to store the person's name, job title, and background information
 job_title = "Cybersecurity - Pentester"
-background = "I am passionate about Hacking & Programming and currently work full-time as an Network & Security Engineer." +
-"Involved in the technology space for more than 4 years" +
-"now more broadly in the Ip Networking, pentesting, Cloud computing, CCTV, Hypervision, Image Analysis."
+background = "I am a dedicated professional with a deep passion for programming and cybersecurity." +
+"The combination of these two fields allows me to not only create innovative solutions to complex problems" +
+"but also explore the intricacies of technology and its potential vulnerabilities." +
+"I possess expertise in multiple programming languages, including Python, Ruby, C++, and JavaScript," + 
+"which enable me to develop robust applications and effectively analyze code." +
+"Additionally, I am well-versed in utilizing a range of hacking tools such as Metasploit, Nmap, and Wireshark to identify" + 
+"and mitigate security risks." + 
+"I thrive on continuous learning, consistently seeking out new challenges and opportunities to expand my knowledge" +
+"and skills in the ever-evolving realm of cybersecurity."
 
 # Output the person's information to the console
 print("Job Title:\n", job_title "\n")
