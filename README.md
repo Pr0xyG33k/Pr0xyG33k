@@ -3,7 +3,7 @@
 <!--   my-icons -->
 <p align="center">
 </a>
-    <a href="https://github.com/Pr0xyG33k/Pr0xyG33k"><img src="https://img.shields.io/badge/status-writing-yellowgreen.svg?style=for-the-badge"></a>
+    <a href="https://github.com/Pr0xyG33k/Pr0xyG33k"><img src="https://img.shields.io/badge/status-update-greengreen.svg?style=for-the-badge"></a>
     <a href="https://github.com/Pr0xyG33k/Pr0xyG33k/graphs/contributors"><img src="https://img.shields.io/github/contributors/Pr0xyG33k/Pr0xyG33k?style=for-the-badge">
     <a href="https://github.com/Pr0xyG33k/Pr0xyG33k/stargazers"><img src="https://img.shields.io/github/stars/Pr0xyG33k/Pr0xyG33k?style=for-the-badge"></a>
     <a href="https://github.com/Pr0xyG33k/Pr0xyG33k/network/members"><img src="https://img.shields.io/github/forks/Pr0xyG33k/Pr0xyG33k.svg?style=for-the-badge"></a>
@@ -98,19 +98,38 @@ print("Background:\n", background "\n")
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
 <h3>operating_system</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0"/>
+  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </div>
 
-<h3>virtualization</h3>
+<h3>hosting/saas</h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D"/>
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</div>
+
+<h3>other</h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
+  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
 </div>
 
 <h2>social</h2> 
@@ -127,6 +146,18 @@ print("Background:\n", background "\n")
    <a href="https://twitter.com/Pr0xyG33k" alt="Twitter">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="100"/>
     </a>
+  </a>
+   <a href="https://t.me/Pr0xyG33k/" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+   </a>
+   <a href="https://www.reddit.com/user/Pr0xyG33k" alt="Reddit">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white"/>
+  </a>
+  </a>
+  <a href="mailto:pr0xyg33k.w3b@gmail.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
 <h2>repositories</h2>
