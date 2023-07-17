@@ -48,7 +48,9 @@
      <ul>
         <li><a href="#programming_language">programming_language</a></li>
         <li><a href="#operating_system">operating system</a></li>
-        <li><a href="#virtualization">virtualization</a></li>
+        <li><a href="#hosting/saas">hosting/saas</a></li>
+        <li><a href="#ml/dm">ml/dm</a></li>
+        <li><a href="#other">other</a></li>
      </ul>
     <li><a href="#social">social</a></li>
     <li><a href="#repositories">repositories</a></li>
