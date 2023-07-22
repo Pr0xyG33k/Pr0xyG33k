@@ -48,12 +48,11 @@
      <ul>
         <li><a href="#programming_language">programming_language</a></li>
         <li><a href="#operating_system">operating system</a></li>
-        <li><a href="#hosting/saas">hosting/saas</a></li>
-        <li><a href="#ml/dm">ml/dm</a></li>
+        <li><a href="#hosting_saas">hosting_saas</a></li>
+        <li><a href="#ml_dm">ml_dm</a></li>
         <li><a href="#other">other</a></li>
      </ul>
     <li><a href="#social">social</a></li>
-    <li><a href="#repositories">repositories</a></li>
     <li><a href="#github_statistics">github_statistics</a></li>
   </ol>
 </details>
@@ -117,7 +116,7 @@ print("Background:\n", background "\n")
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </div>
 
-<h3>hosting/saas</h3>
+<h3>hosting_saas</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -125,7 +124,7 @@ print("Background:\n", background "\n")
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </div>
 
-<h3>ml/dm</h3>
+<h3>ml_dm</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
@@ -169,11 +168,6 @@ print("Background:\n", background "\n")
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
-
-<h2>repositories</h2>
-<a href="https://github.com/Pr0xyG33k/Bot">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pr0xyG33k&theme=transparent&repo=bot" />
-</a>
 
 <h2>github_statistics</h2>
 <a href="https://github.com/Pr0xyG33k">
