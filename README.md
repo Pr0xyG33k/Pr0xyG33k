@@ -143,9 +143,6 @@ print("Background:\n", background "\n")
 
 <h2>social</h2> 
 <div align="left">  
-  <a href="https://www.linkedin.com/in/anthony-d-791220197/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="https://discordapp.com/users/363663109577113601" alt="Discord">
     <img src="https://img.shields.io/badge/-Discord-8B89CC?style=for-the-badge&logo=Discord&logoColor=white"/>
   </a>
