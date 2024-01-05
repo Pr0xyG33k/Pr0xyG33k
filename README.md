@@ -36,7 +36,7 @@
 -->
 <!--   my-ticker -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=0E98F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there%2C+i'm+Pr0xyG33k%2C+welcome+to+my+new+profile+!;I+love+%3CH4ck1ng_%3E+%26%26+%3CPr0gr4mm1ng_%3E+!;because+they+allow+me+to+create+and+solve+complex+problems">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=4000&pause=500&color=B62E32&center=true&vCenter=true&random=false&width=800&height=100&lines=Welcome+to+the+profile+of+Pr0xyG33k%2C;the+interplay+between+%3CH4ck1ng_%3E+%26+%3CPr0gr4mm1ng_%3E">
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -52,7 +52,6 @@
         <li><a href="#ml_dm">ml_dm</a></li>
         <li><a href="#other">other</a></li>
      </ul>
-    <li><a href="#social">social</a></li>
     <li><a href="#github_statistics">github_statistics</a></li>
   </ol>
 </details>
@@ -68,103 +67,75 @@
 ---
 
 <h2>about</h2>
-
-```python
-# This script outputs information about a person's background
-
-# Define variables to store the person's name, job title, and background information
-job_title = "Cybersecurity - Pentester"
-background = "I am a dedicated professional with a deep passion for programming and cybersecurity." +
-"The combination of these two fields allows me to not only create innovative solutions to complex problems" +
-"but also explore the intricacies of technology and its potential vulnerabilities." +
-"I possess expertise in multiple programming languages, including Python, Ruby, C++, and JavaScript," + 
-"which enable me to develop robust applications and effectively analyze code." +
-"Additionally, I am well-versed in utilizing a range of hacking tools such as Metasploit, Nmap, and Wireshark to identify" + 
-"and mitigate security risks." + 
-"I thrive on continuous learning, consistently seeking out new challenges and opportunities to expand my knowledge" +
-"and skills in the ever-evolving realm of cybersecurity."
-
-# Output the person's information to the console
-print("Job Title:\n", job_title "\n")
-print("Background:\n", background "\n")
-
-```
+Bathed in an unyielding ardor for programming, cybersecurity, and the art of ethical hacking, I intricately refine my craft in fortifying systems and architecting resilient applications, driven by an unwavering commitment to lead the charge in this ever-evolving domain.
 
 <!--   my-programming -->
 <h2>skills</h2>
 <h3>programming_language</h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <code><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></code>
+  <code><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/></code>
 </div>
 
 <h3>operating_system</h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0"/>
-  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+   <code><img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/></code>
+   <code><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/></code>
+   <code><img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/></code>
+   <code><img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/></code>
+   <code><img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0"/></code>
+   <code><img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"/></code>
+   <code><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></code>
+   <code><img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/></code>
 </div>
 
 <h3>hosting_saas</h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D"/>
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <code><img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D"/></code>
+  <code><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/></code>
 </div>
 
 <h3>ml_dm</h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+  <code><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/></code>
 </div>
 
 <h3>other</h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
-  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
+  <code><img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/></code>
+  <code><img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/></code>
 </div>
 
+<!--
 <h2>social</h2> 
 <div align="left">  
   <a href="https://discordapp.com/users/363663109577113601" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-8B89CC?style=for-the-badge&logo=Discord&logoColor=white"/>
-  </a>
+    <code><img src="https://img.shields.io/badge/-Discord-8B89CC?style=for-the-badge&logo=Discord&logoColor=white"/></code>
    <a href="https://github.com/Pr0xyG33k/" alt="Github">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+    <code><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></code>
    <a href="https://twitter.com/Pr0xyG33k" alt="Twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="100"/>
-    </a>
-  </a>
+    <code><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="100"/></code>
    <a href="https://t.me/Pr0xyG33k/" alt="Telegram">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-   </a>
+    <code><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></code>
    <a href="https://www.reddit.com/user/Pr0xyG33k" alt="Reddit">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white"/>
-  </a>
-  </a>
+    <code><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white"/></code>
   <a href="mailto:pr0xyg33k.w3b@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+    <code><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></code>
 </div>
+-->
 
 <h2>github_statistics</h2>
 <a href="https://github.com/Pr0xyG33k">
