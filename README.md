@@ -123,6 +123,11 @@ Bathed in an unyielding ardor for programming, cybersecurity, and the art of eth
   <code><img height="25" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/></code>
 </div>
 
+<h2>github_statistics</h2>
+<a href="https://github.com/Pr0xyG33k">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pr0xyG33k&show_icons=true&theme=transparent&hide_border=false&hide_rank=false" alt="**SEU NOME** github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0xyG33k&theme=transparent&hide_border=false&hide_langs_below=1&langs_count=5&layout=compact"/>
+</a>
 <!--
 <h2>social</h2> 
 <div align="left">  
@@ -139,10 +144,8 @@ Bathed in an unyielding ardor for programming, cybersecurity, and the art of eth
   <a href="mailto:pr0xyg33k.w3b@gmail.com" alt="Gmail">
     <code><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></code>
 </div>
--->
-
 <h2>github_statistics</h2>
 <a href="https://github.com/Pr0xyG33k">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pr0xyG33k&show_icons=true&theme=transparent&hide_border=false&hide_rank=false" alt="**SEU NOME** github stats"/>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0xyG33k&theme=transparent&hide_border=true&hide_langs_below=1&langs_count=5" />
-</a>
+<img align="center" src="https://repobeats.axiom.co/api/embed/67c69a3848fafad2660102334b65eed340703fe0.svg" alt="**SEU NOME** Repobeats analytics image"/>
+-->
+
