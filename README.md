@@ -93,7 +93,6 @@ GO               ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <div align="left">
     
    ![Windows](https://img.shields.io/badge/Windows-3c4149?style=for-the-badge&logo=windows&logoColor=white)
-   <!--![Kali](https://img.shields.io/badge/Kali-3c4149?style=for-the-badge&logo=kalilinux&logoColor=white)-->
    ![Red Hat](https://img.shields.io/badge/Red%20Hat-3c4149?style=for-the-badge&logo=redhat&logoColor=red)
    ![CentOS](https://img.shields.io/badge/cent%20os-3c4149?style=for-the-badge&logo=centos&logoColor=F0F0F0)
    ![Debian](https://img.shields.io/badge/Debian-3c4149?style=for-the-badge&logo=debian&logoColor=white)
