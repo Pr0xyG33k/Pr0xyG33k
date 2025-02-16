@@ -51,7 +51,7 @@ Driven by a deep passion for programming, cybersecurity, and ethical hacking, I 
 <br> <!-- Jump ! -->
 At this point in my journey, these are the programming languages I’m most engaged with:
 
-![Image transparente SVG](https://github.com/Pr0xyG33k/tmp/blob/main/languages.svg)
+![Image transparente SVG](https://github.com/Pr0xyG33k/tmp/blob/main/dev.svg)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0xyG33k&theme=transparent&hide_border=true&layout=compact)-->
 <!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pr0xyG33k)](https://github.com/Pr0xyG33k/github-readme-stats)-->
 
