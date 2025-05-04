@@ -48,7 +48,7 @@
 <h2>about</h2>
 Driven by a deep passion for programming, cybersecurity, and ethical hacking, I continuously refine my skills in strengthening systems and building resilient applications. My goal is to stay at the forefront of this ever-evolving field and actively contribute to securing technology.
 
-<br> <!-- Jump ! -->
+<br>
 At this point in my journey, these are the programming languages I’m most engaged with:
 
 ![Image transparente SVG](https://github.com/Pr0xyG33k/assets/blob/main/img/dev.svg)
