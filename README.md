@@ -44,7 +44,7 @@
 </details>
 
 ---
-<!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
+
 <h2>about</h2>
 Driven by a deep passion for programming, cybersecurity, and ethical hacking, I continuously refine my skills in strengthening systems and building resilient applications. My goal is to stay at the forefront of this ever-evolving field and actively contribute to securing technology.
 
@@ -52,18 +52,6 @@ Driven by a deep passion for programming, cybersecurity, and ethical hacking, I 
 At this point in my journey, these are the programming languages I’m most engaged with:
 
 ![Image transparente SVG](https://github.com/Pr0xyG33k/assets/blob/main/img/dev.svg)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0xyG33k&theme=transparent&hide_border=true&layout=compact)-->
-<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pr0xyG33k)](https://github.com/Pr0xyG33k/github-readme-stats)-->
-
-<!-- 
-```txt
-Python           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀          30.00 %
-C++              ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀          25.13 %
-Bash             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀          28.97 %
-Ruby             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀          09.00 %
-GO               ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀          06.00 %
-```
--->
 
 <!--   my-programming -->
 <h2>skills</h2>
@@ -137,8 +125,7 @@ GO               ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <div align="center">
 <a href="https://github.com/Pr0xyG33k">
 <img align="center" src="https://streak-stats.demolab.com?user=Pr0xyG33k&hide_border=true&background=EBEBEB00&stroke=5acbe9&ring=5acbe9&fire=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&sideNums=5acbe9">
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pr0xyG33k&show_icons=true&theme=transparent&hide_border=true&hide_rank=false" alt="**SEU NOME** github stats"/>-->
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0xyG33k&theme=transparent&hide_border=true&hide_langs_below=1&langs_count=5&layout=compact"/>-->
+
 <img align="center" alt="Pr0xyG33k's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Pr0xyG33k&bg_color=RRGGBBAA&title_color=5acbe9&color=5acbe9&line=5acbe9&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
 </a>
 </div>
