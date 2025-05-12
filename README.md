@@ -51,7 +51,7 @@ Driven by a deep passion for programming, cybersecurity, and ethical hacking, I 
 <br>
 At this point in my journey, these are the programming languages I’m most engaged with:
 
-![Image transparente SVG](https://github.com/Pr0xyG33k/assets/blob/main/img/dev.svg)
+![Image transparente SVG](assets/img/dev.svg)
 
 <!--   my-programming -->
 <h2>skills</h2>
