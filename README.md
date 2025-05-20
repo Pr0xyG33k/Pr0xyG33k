@@ -39,7 +39,7 @@
         <li><a href="#ml_dm">ml_dm</a></li>
         <li><a href="#other">other</a></li>
      </ul>
-<!--    <li><a href="#github_statistics">github_statistics</a></li> -->
+    <li><a href="#github_statistics">github_statistics</a></li>
   </ol>
 </details>
 
@@ -121,7 +121,6 @@ At this point in my journey, these are the programming languages I’m most enga
   ![Swagger](https://img.shields.io/badge/-Swagger-3c4149?style=for-the-badge&logo=swagger&logoColor=E9BD4D)
 </div>
 
-<!--
 <h2>github_statistics</h2>
 <div align="center">
 <a href="https://github.com/Pr0xyG33k">
@@ -130,4 +129,3 @@ At this point in my journey, these are the programming languages I’m most enga
 <img align="center" alt="Pr0xyG33k's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Pr0xyG33k&bg_color=RRGGBBAA&title_color=5acbe9&color=5acbe9&line=5acbe9&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
 </a>
 </div>
--->
